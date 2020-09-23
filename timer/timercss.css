@@ -1,0 +1,14 @@
+body {
+    background-image: url(image/time.jpg);
+}
+.span {
+ font-size: 60px;
+ color: lightblue;
+}
+.timer {
+    background-color: whitesmoke;
+    width: 1000px;
+    height: 500px;
+    background-color: rgb(255, 255, 255, .45);
+    margin-top: 100px;
+}
